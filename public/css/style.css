@@ -921,4 +921,18 @@ font-size: 30px;
 .finance-contact {
  width: 100%;
 }
+img.subscribe-img {
+  display: none;
+}
+.cta-section button {
+  margin-top: 10px;
+}
+.features-list {
+  list-style: none;
+  padding-left: 0;
+}
+img.img-border {
+  width: 100%;
+  margin-top: 20px;
+}
 }
